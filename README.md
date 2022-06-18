@@ -5,3 +5,7 @@ my coding diary
 - 👀 6 June 2022, [WebScraping](https://github.com/how2ai4all/Diary/blob/main/BasicOOP.ipynb)
 - 💞️ 7 June 2022, [สมัครเรียน ม.ราม](https://www.youtube.com/watch?v=UdKbHCmEIFE)
 - 📫 8 June 2022, [วางแผนเรียน Computer Science](https://www.youtube.com/watch?v=OWF9jqJQigk&t=7s)
+- 👋 9 June 2022, [ประมาณการค่าใช้จ่ายเรียนราม](https://www.youtube.com/watch?v=KUoXC6JmfGE&t=9s)
+- 👀 6 June 2022, [WebScraping](https://github.com/how2ai4all/Diary/blob/main/BasicOOP.ipynb)
+- 💞️ 7 June 2022, [สมัครเรียน ม.ราม](https://www.youtube.com/watch?v=UdKbHCmEIFE)
+- 📫 8 June 2022, [ว](https://www.youtube.com/watch?v=OWF9jqJQigk&t=7s)
